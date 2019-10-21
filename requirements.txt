@@ -1,5 +1,5 @@
 Cython==0.26.1
-Django==1.11.10
+Django==1.11.23
 DjangoCaptcha==0.2.13
 DjangoUeditor==1.8.143
 JPype==0.5.4.2
