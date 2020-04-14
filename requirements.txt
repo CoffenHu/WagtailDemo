@@ -78,7 +78,7 @@ suit==2.0.2
 termcolor==1.1.0
 urllib3==1.21.1
 virtualenv==1.11.6
-wagtail==1.13.1
+wagtail==2.7.2
 web.py==0.37
 webencodings==0.5.1
 wheel==0.29.0
