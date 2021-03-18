@@ -4,7 +4,7 @@ DjangoCaptcha==0.2.13
 DjangoUeditor==1.8.143
 JPype==0.5.4.2
 MySQL-python==1.2.5
-Pillow==3.1.1
+Pillow==8.1.1
 PyInstaller==3.2
 PyJWT==1.5.3
 PyYAML==3.12
