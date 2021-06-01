@@ -76,7 +76,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 suit==2.0.2
 termcolor==1.1.0
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==1.11.6
 wagtail==1.13.1
 web.py==0.37
