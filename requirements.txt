@@ -81,7 +81,7 @@ virtualenv==1.11.6
 wagtail==1.13.1
 web.py==0.37
 webencodings==0.5.1
-wheel==0.29.0
+wheel==0.38.1
 wrapt==1.10.11
 wsgiref==0.1.2
 xlrd==0.9.3
